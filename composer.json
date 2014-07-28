@@ -1,0 +1,14 @@
+{
+    "name": "impactwave/influxdb-tools",
+    "description": "Tools for working with InflluxDB databases",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Claudio Silva",
+            "email": "claudio.silva@impactwave.com"
+        }
+    ],
+    "require": {
+      "crodas/influx-php": "dev-master"
+    }
+}

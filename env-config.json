@@ -1,0 +1,14 @@
+{
+  "local":      {
+    "host": "localhost", "port": 8086, "user": "root", "pass": "root"
+  },
+  "intranet":   {
+    "host": "intranet.impactwave.com", "port": 8086, "user": "root", "pass": "root"
+  },
+  "staging":    {
+    "host": "dev.impactwave.com", "port": 8086, "user": "root", "pass": "root"
+  },
+  "production": {
+    "host": "server4.impactwave.com", "port": 8086, "user": "root", "pass": "root"
+  }
+}
