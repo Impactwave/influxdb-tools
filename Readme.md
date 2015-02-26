@@ -1,6 +1,6 @@
 # InfluxDB Tools
 
-Tools for working with InfluxDB databases.
+##### Command-line shell scripts for working with InfluxDB databases.
 
 ## Installation
 
